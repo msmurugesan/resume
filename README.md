@@ -1,4 +1,2 @@
 # resume
-My Resumes :: [Murugesan-Resume-2026.pdf](https://github.com/user-attachments/files/26060518/Murugesan-Resume-2026.pdf)
-
-
+My Resumes :: [MurugesanM_Resume_2026.pdf](https://github.com/user-attachments/files/26063294/MurugesanM_Resume_2026.pdf)
